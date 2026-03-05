@@ -9,6 +9,9 @@ An advanced, professional Discord scraper that identifies and monitors rare acco
 ![Node](https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen.svg)
 ![Author](https://img.shields.io/badge/author-dayix317-purple.svg)
 
+<img width="493" height="273" alt="image" src="https://github.com/user-attachments/assets/255c444a-8e14-4b61-9693-377271804d9d" />
+
+
 ## ✨ Features
 
 ### 🎯 Rare Detection Criteria
