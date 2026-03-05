@@ -1,0 +1,188 @@
+MIT License
+
+Copyright (c) 2026 dayix317
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+                              DISCLAIMER
+================================================================================
+
+This software ("317 Scraper") is provided for EDUCATIONAL PURPOSES ONLY.
+
+IMPORTANT NOTICES:
+
+1. TERMS OF SERVICE VIOLATION
+   The use of selfbots violates Discord's Terms of Service. By using this
+   software, you acknowledge that you are violating Discord's ToS and accept
+   full responsibility for any consequences.
+
+2. ACCOUNT TERMINATION RISK
+   Using this software may result in:
+   - Immediate account termination
+   - Permanent ban from Discord
+   - Loss of access to all Discord servers
+   - Loss of Nitro subscription (if applicable)
+   - Loss of all account data and history
+   - IP ban from Discord services
+   - Hardware ID ban
+
+3. NO WARRANTY
+   This software is provided "AS IS" without warranty of any kind. The author
+   (dayix317) makes no guarantees about the functionality, safety, legality,
+   or accuracy of this software.
+
+4. NO LIABILITY
+   The author (dayix317) shall not be held liable for:
+   - Account bans or terminations
+   - Data loss or corruption
+   - Legal consequences
+   - Any damages resulting from the use of this software
+   - Any violations of Discord's Terms of Service
+   - Rate limiting or API restrictions
+   - Webhook failures or data leaks
+   - Privacy violations
+   - Misuse of collected data
+   - Any other consequences, direct or indirect
+
+5. USER RESPONSIBILITY
+   By using this software, you agree that:
+   - You are solely responsible for your actions
+   - You understand the risks involved
+   - You will not hold the author liable for any consequences
+   - You are using this software at your own risk
+   - You have read and understood Discord's Terms of Service
+   - You accept full responsibility for any account actions
+   - You will comply with all applicable laws and regulations
+
+6. LEGAL COMPLIANCE
+   Users are responsible for ensuring their use of this software complies with
+   all applicable laws and regulations in their jurisdiction, including but not
+   limited to:
+   - Data protection laws (GDPR, CCPA, etc.)
+   - Computer fraud and abuse laws
+   - Terms of service agreements
+   - Privacy regulations
+   - Anti-scraping laws
+   - Unauthorized access laws
+
+7. NO SUPPORT
+   The author is under no obligation to provide support, updates, fixes, or
+   maintenance for this software. Use of this software is entirely at your
+   own discretion.
+
+8. ATTRIBUTION
+   If you fork or modify this software, you must:
+   - Maintain attribution to the original author (dayix317)
+   - Include this license and disclaimer
+   - Not misrepresent the origin of the software
+   - Not use the author's name to endorse derived works
+   - Clearly indicate any modifications made
+
+9. FEATURE-SPECIFIC WARNINGS
+   - Multiple Webhooks: Ensure you have permission to use all webhook URLs
+   - Proxy Usage: Verify proxy legality in your jurisdiction
+   - Rate Limiting: Respect Discord's API rate limits at all times
+   - Data Storage: Secure all output files containing user data
+   - User IDs: Handle user IDs in compliance with privacy laws
+   - Month-Based Display: Boost classifications are approximations
+   - Smart Routing: Webhook routing is automated and may categorize incorrectly
+   - Real-time Tracking: Console output may contain sensitive information
+
+10. DATA PRIVACY
+    This software collects and stores:
+    - Discord user IDs
+    - Usernames and display names
+    - Badge information
+    - Account creation dates
+    - Server membership data
+    - Boost levels and durations
+    - Nitro subscription information
+    
+    Users must:
+    - Comply with data protection regulations
+    - Secure all collected data
+    - Not share or sell collected data
+    - Delete data when no longer needed
+    - Respect user privacy rights
+    - Obtain necessary consents where required
+    - Implement appropriate security measures
+
+11. AUTOMATED PROCESSING
+    This software performs automated processing of user data. Users must:
+    - Ensure compliance with automated processing regulations
+    - Respect rate limits and API usage policies
+    - Not use the software for harassment or stalking
+    - Not use collected data for malicious purposes
+    - Implement safeguards against misuse
+
+12. WEBHOOK SECURITY
+    Users are responsible for:
+    - Securing all webhook URLs
+    - Not sharing webhook URLs publicly
+    - Monitoring webhook usage
+    - Revoking compromised webhooks
+    - Ensuring webhook channels are properly secured
+
+================================================================================
+
+BY USING THIS SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS DISCLAIMER,
+UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS.
+
+IF YOU DO NOT AGREE WITH THESE TERMS, DO NOT USE THIS SOFTWARE.
+
+USE OF THIS SOFTWARE CONSTITUTES ACCEPTANCE OF ALL RISKS AND RESPONSIBILITIES
+OUTLINED IN THIS DISCLAIMER.
+
+THE AUTHOR (dayix317) EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS OF
+ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+AND NON-INFRINGEMENT.
+
+================================================================================
+
+Project: 317 Scraper
+Author: dayix317
+Version: 2.0.0
+Year: 2026
+
+Key Features:
+- Multiple webhook support with priority-based smart routing
+- Month-based boost classification (1m, 3m, 6m, 9m, 12m, 15m, 18m, 24m, 24m+)
+- User ID display in embeds
+- Real-time progress tracking with detailed console output
+- Separate tracking for rare accounts
+- Custom footer with GIF support
+- Badge name display in console (readable format)
+- Intelligent rate limiting with auto-detection
+- Proxy support for enhanced privacy
+- Duplicate prevention system
+
+================================================================================
+
+FINAL WARNING:
+
+This software is designed to interact with Discord's API in ways that violate
+their Terms of Service. The author strongly advises against using this software
+on accounts you value. There is a HIGH RISK of account termination.
+
+By proceeding to use this software, you acknowledge that you have been warned
+and accept all consequences.
+
+================================================================================

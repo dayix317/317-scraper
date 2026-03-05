@@ -1,0 +1,28 @@
+{
+  "name": "317-scraper",
+  "version": "2.0.0",
+  "description": "317 Scraper - Discord rare accounts scanner by dayix317",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --no-warnings index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.14.12",
+    "axios": "^1.6.0",
+    "moment": "^2.30.1",
+    "colors": "^1.4.0"
+  },
+  "keywords": [
+    "discord",
+    "scraper",
+    "selfbot",
+    "rare-accounts",
+    "317"
+  ],
+  "author": "dayix317",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

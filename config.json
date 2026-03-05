@@ -1,0 +1,18 @@
+{
+  "token": "YOUR_USER_ACCOUNT_TOKEN",
+  "webhook_url": "YOUR_DEFAULT_WEBHOOK_URL",
+  "webhook_boost_nitro": "YOUR_BOOST_NITRO_WEBHOOK_URL",
+  "webhook_badges": "YOUR_BADGES_WEBHOOK_URL",
+  "footer_icon_url": "https://cdn.discordapp.com/attachments/YOUR_CHANNEL/YOUR_FILE/icon.gif",
+  "use_proxy": false,
+  "user_check_delay_ms": 10000,
+  "proxy": {
+    "protocol": "http",
+    "host": "your-proxy.com",
+    "port": 8080,
+    "auth": {
+      "username": "username",
+      "password": "password"
+    }
+  }
+}
